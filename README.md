@@ -1,2 +1,2 @@
 # level_switch
-level_switch，高低电平双向IO转换，最低到1.8v
+level_switch，5V/3.3V电平双向IO转换
