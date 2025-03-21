@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : D:\Lab\level_switch\level_switch_F.1.1.PcbDoc
+Date         : 2025/3/21
+Time         : 16:44:01
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 75.565mmx80.01mm
+    Components on board, 0
+count : 2
